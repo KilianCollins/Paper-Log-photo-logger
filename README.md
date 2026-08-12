@@ -49,7 +49,7 @@ directly using a short-lived OAuth access token held in memory.
 - `manifest.json`, `sw.js`, `icons/` — PWA shell (installable, offline app
   shell; uploads still need connectivity)
 
-## Human setup steps
+## Setup steps
 
 These sit behind your own Google login, so an agent cannot do them for you.
 
