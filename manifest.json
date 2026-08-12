@@ -1,0 +1,15 @@
+{
+  "name": "Well Photo Log",
+  "short_name": "Well Photos",
+  "description": "Field photo log for well paper records, saved straight to Google Drive.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F2F1EC",
+  "theme_color": "#123E5E",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
