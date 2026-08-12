@@ -105,3 +105,6 @@ under `wells`; `id` just needs to be unique.
 - Multi-user support, sharing, or auth beyond the single owner
 - Offline uploading
 - Editing the well list in-app
+
+
+
